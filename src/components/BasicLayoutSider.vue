@@ -11,11 +11,11 @@
       <div class="user-info-title">个人信息</div>
       <div class="user-info-text">
         <i class="el-icon-trophy"></i>
-        <span>毕业学校：惠州学院（本科）</span>
+        <span>毕业学校：华商学院（本科）</span>
       </div>
       <div class="user-info-text">
         <i class="el-icon-present"></i>
-        <span>出生年月：1990.07.14（广州）</span>
+        <span>出生年月：1996.01.01（广州）</span>
       </div>
       <div class="user-info-text">
         <i class="el-icon-position"></i>
@@ -23,7 +23,7 @@
       </div>
       <div class="user-info-text">
         <i class="el-icon-mobile-phone"></i>
-        <span>联系方式：13511111111</span>
+        <span>联系方式：13480235225</span>
       </div>
       <div class="user-info-text">
         <i class="el-icon-wind-power"></i>
