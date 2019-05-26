@@ -2,7 +2,7 @@
   <el-aside class="page-sider">
     <div class="user-info">
       <div class="user-avatar">
-        <img class="user-avatar-png" src="@/assets/logo.png" />
+        <img class="user-avatar-png" src="@/assets/avatar.png" />
       </div>
       <p class="user-name">古柳嫦</p>
       <p class="user-status">Born to Code</p>
